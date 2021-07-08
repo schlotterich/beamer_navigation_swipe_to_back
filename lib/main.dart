@@ -1,7 +1,6 @@
 import 'package:beamer/beamer.dart';
 import 'package:ecommerce_beamer_playground/ui/widgets/bottomNavBar.dart';
 import 'package:flutter/material.dart';
-
 import 'beam_locations.dart';
 
 Future<void> main() async {
