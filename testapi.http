@@ -1,0 +1,10 @@
+GET https://fakestoreapi.com/products HTTP/1.1
+
+###
+
+GET https://fakestoreapi.com/products/categories HTTP/1.1
+
+###
+
+GET https://fakestoreapi.com/products/category/jewelery HTTP/1.1
+
